@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Astronaut24 Pages
 
 You can use the [editor on GitHub](https://github.com/Astronaut24/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
